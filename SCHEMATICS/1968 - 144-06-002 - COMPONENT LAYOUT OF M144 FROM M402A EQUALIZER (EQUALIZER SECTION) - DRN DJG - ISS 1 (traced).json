@@ -1,0 +1,48 @@
+{
+ "drawing": "Modules/UNSORTED/M144/SCHEMATICS/1968 - 144-06-002 - COMPONENT LAYOUT OF M144 FROM M402A EQUALIZER (EQUALIZER SECTION) - DRN DJG - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/0cbd08ecb12ee7a9.svg",
+ "sheet": {
+  "number": "B 144-06-002",
+  "title": "COMPONENT LAYOUT OF M144 FROM M402A EQUALIZER (EQUALIZER SECTION)",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 270,
+  "px": [2000, 1423],
+  "mm": [431.8, 307.2],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 32.3, 431.8, 307.2],
+ "outlines": {
+  "line": {"rings": 1937, "straight": {"n": 10073, "mm": 11597.5}, "curved": {"n": 2064, "mm": 2079.6}},
+  "text": {"rings": 476, "straight": {"n": 3189, "mm": 2967.2}, "curved": {"n": 820, "mm": 917.2}}
+ },
+ "circles": [{"c": [110.6, 207.9], "r": 1.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [247.9, 41.7, 326.7, 79.0], "w": 78.8, "h": 37.4, "from": "ring"},
+  {"mm": [195.2, 69.7, 208.4, 78.8], "w": 13.2, "h": 9.1, "from": "ring"},
+  {"mm": [209.4, 69.7, 247.4, 78.8], "w": 38.0, "h": 9.1, "from": "ring"},
+  {"mm": [195.2, 60.4, 208.3, 69.5], "w": 13.2, "h": 9.1, "from": "ring"},
+  {"mm": [209.4, 60.4, 247.4, 69.5], "w": 38.0, "h": 9.1, "from": "ring"},
+  {"mm": [195.2, 50.7, 208.4, 60.3], "w": 13.2, "h": 9.6, "from": "ring"},
+  {"mm": [209.4, 50.7, 247.4, 60.2], "w": 38.0, "h": 9.6, "from": "ring"},
+  {"mm": [209.4, 41.7, 247.4, 50.5], "w": 38.0, "h": 8.9, "from": "ring"},
+  {"mm": [195.2, 41.5, 208.3, 50.3], "w": 13.2, "h": 8.9, "from": "ring"},
+  {"mm": [341.1, 32.6, 409.6, 41.7], "w": 68.5, "h": 9.1, "from": "ring"},
+  {"mm": [410.0, 33.0, 421.5, 41.7], "w": 11.5, "h": 8.6, "from": "ring"},
+  {"mm": [327.7, 32.6, 340.7, 41.5], "w": 13.0, "h": 8.9, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [{"c": [208.4, 225.7], "r": 1.3, "lines": 0}, {"c": [162.3, 206.4], "r": 1.1, "lines": 0}, {"c": [91.0, 170.2], "r": 1.4, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout B 144-06-002, size B 432 × 307 mm, 2000 × 1423 px traced (0.216 mm/px), turned 270°",
+  "- **Ink extent:** 0–432 mm across, 32–307 mm up",
+  "- **Outlines:** line 1,937 rings, 10,073 straight (11,598 mm) / 2,064 curved (2,080 mm); text 476 rings, 3,189 straight (2,967 mm) / 820 curved (917 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.2 @ (110.6, 207.9)",
+  "- **Closed boxes:** 12",
+  "- **Dots (junctions):** 3"
+ ]
+}
