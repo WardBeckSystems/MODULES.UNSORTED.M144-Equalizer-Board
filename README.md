@@ -1,6 +1,6 @@
 # M144 Equalizer Board · Filters
 
-Ward-Beck Systems M144, 1968|1. Wiki page: [M144 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M144.html)
+Ward-Beck Systems M144, 1968|1. Wiki page: [M144 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M144-Equalizer-Board/)
 
 | Folder | What is in it | Files |
 |---|---|---|

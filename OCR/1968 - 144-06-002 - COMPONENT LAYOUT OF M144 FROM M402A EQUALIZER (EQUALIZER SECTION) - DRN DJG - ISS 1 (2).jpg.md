@@ -1,5 +1,5 @@
 # 1968 - 144-06-002 - COMPONENT LAYOUT OF M144 FROM M402A EQUALIZER (EQUALIZER SECTION) - DRN DJG - ISS 1 (2).jpg
-Wiki page: [M144](../../../../PAGES/M144.md)
+Wiki page: [M144](../)
 
 
 - **Year:** 1968 (title block date)
